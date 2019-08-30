@@ -1,9 +1,11 @@
 ## Main Components
 
-- React unit test practice
-- React integration test practice
-- Redux middleware practice
+This is a React pratice project including:
+
+- Unit test
+- Integration test
+- Redux middleware
   - Promise handler
   - Schema check
-- React HOC practice
-- React Client side auth practice
+- HOC
+- Client side auth
